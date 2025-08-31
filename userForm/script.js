@@ -1,5 +1,5 @@
 // Use Railway's environment variable for backend URL
-const API_BASE = process.env.API_BASE_URL || "https://airlytics-production.up.railway.app";
+const API_BASE =  "https://airlytics-production.up.railway.app";
 
 // Form handling for userForm
 const age = document.querySelector("#age");
